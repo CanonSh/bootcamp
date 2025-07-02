@@ -1,3 +1,8 @@
 Holiwis 
 Que vientos
+<<<<<<< HEAD
 Todo Joya
+=======
+
+Mas o menos
+>>>>>>> Mario/texto
